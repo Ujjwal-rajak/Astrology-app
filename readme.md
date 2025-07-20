@@ -28,10 +28,12 @@ Get Your Prediction:
 Click the "Predict" button to see your astrological prediction.
 
 📸 Screenshot
+
 ![1.screenshot](./a1.png)
 ![2.screenshot](./a2.png)
 
 💡 Future Enhancements (Optional Ideas)
+
 Implement more sophisticated astrological calculations for predictions.
 
 Integrate with an external astrology API for more accurate or diverse predictions.
