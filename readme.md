@@ -30,6 +30,7 @@ Click the "Predict" button to see your astrological prediction.
 📸 Screenshot
 ![1.screenshot](./a1.png)
 ![2.screenshot](./a2.png)
+
 💡 Future Enhancements (Optional Ideas)
 Implement more sophisticated astrological calculations for predictions.
 
